@@ -66,7 +66,6 @@ public class Interfaz extends javax.swing.JFrame {
         jLabel1.setText("PREVENTA VIP");
         Bg.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 10, 510, -1));
 
-        jComboBox1.setEditable(true);
         jComboBox1.setFont(new java.awt.Font("Arial Narrow", 0, 18)); // NOI18N
         jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "None", "Bizarrap", "Armin Van Buuren", "Moderat" }));
         jComboBox1.addActionListener(new java.awt.event.ActionListener() {
