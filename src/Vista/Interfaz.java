@@ -15,6 +15,7 @@ public class Interfaz extends javax.swing.JFrame {
     public Interfaz(Control con) {
         this.control = con;
         initComponents();
+        setVisible(true);
     }
 
     /**
