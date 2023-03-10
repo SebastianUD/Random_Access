@@ -1,9 +1,8 @@
 package Control;
 
 public class Launcher {
-
     public static void main(String[] args) {
-        new Control();
+        Control control = new Control();
+        control.iniciar();
     }
 }
-
